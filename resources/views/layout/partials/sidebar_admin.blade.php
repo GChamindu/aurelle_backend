@@ -3,7 +3,7 @@
     <div class="sidebar-header">
         <div class="sidebar-logo">
             <a href="{{ url('admin/index_admin') }}">
-                <h5>Copper Store</h5> {{-- <img src="{{ URL::asset('admin_assets/img/logo.svg') }}"
+                <h5>Aurelle Store</h5> {{-- <img src="{{ URL::asset('admin_assets/img/logo.svg') }}"
                     class="img-fluid logo" alt="Logo"> --}}
             </a>
             <a href="{{ url('admin/index_admin') }}">

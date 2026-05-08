@@ -18,7 +18,7 @@ class SendNewOrderAdminEmail implements ShouldQueue
     public array $customer;
     public string $adminLink;
 
-    public function __construct(array $orderItems, array $customer, string $adminLink = 'https://admin.copper.lk')
+    public function __construct(array $orderItems, array $customer, string $adminLink = 'https://admin.aurelle.lk')
     {
         $this->orderItems = $orderItems;
         $this->customer = $customer;
@@ -27,7 +27,7 @@ class SendNewOrderAdminEmail implements ShouldQueue
 
     public function handle(): void
     {
-        $adminEmail = config('mail.admin_email', 'admin@copper.lk');
+        $adminEmail = config('mail.admin_email', 'admin@aurelle.lk');
 
         Mail::to($adminEmail)->send(
             new NewOrderAdminMail(

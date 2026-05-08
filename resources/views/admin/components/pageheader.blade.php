@@ -313,7 +313,7 @@
             </span>
             <div class="con-info">
                 <h6>Name</h6>
-                <p>Copper</p>
+                <p>Aurelle</p>
             </div>
         </li>
         <li>

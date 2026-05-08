@@ -21,7 +21,7 @@
         <ul class="nav user-menu">
             <!-- Notifications -->
             <li class="nav-item">
-                <a href="{{ url('https://copper.lk/') }}" class="viewsite"><i class="fe fe-globe me-2"></i>View Site</a>
+                <a href="{{ url('https://aurelle.lk/') }}" class="viewsite"><i class="fe fe-globe me-2"></i>View Site</a>
             </li>
             <li class="nav-item dropdown has-arrow dropdown-heads flag-nav">
                 {{-- <a class="nav-link" data-bs-toggle="dropdown" href="javascript:void(0);" role="button">
@@ -214,7 +214,7 @@
                         <span class="animate-circle"></span>
                     </span>
                     <span class="user-content">
-                        <span class="user-name">Copper</span>
+                        <span class="user-name">Aurelle</span>
                         <span class="user-details">Owner</span>
                     </span>
                 </a>
@@ -227,8 +227,8 @@
                                         class="profilesidebar">
                                 </span>
                                 <span class="profile-content">
-                                    <span>Copper</span>
-                                    <span>copper@store.com</span>
+                                    <span>Aurelle</span>
+                                    <span>aurelle@store.com</span>
                                 </span>
                             </a>
                         </div>

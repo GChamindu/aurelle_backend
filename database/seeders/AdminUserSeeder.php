@@ -27,7 +27,7 @@ class AdminUserSeeder extends Seeder
         $adminRole->syncPermissions($permissions);
 
         $admin = User::firstOrCreate(
-            ['email' => 'copper@gmail.com'],
+            ['email' => 'aurelle@gmail.com'],
             [
                 'name' => 'Admin',
                 'password' => Hash::make('12345678'),

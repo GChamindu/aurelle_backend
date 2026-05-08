@@ -8,7 +8,7 @@
     <meta name="x-apple-disable-message-reformatting">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta content="telephone=no" name="format-detection">
-    <title>Copper Mail </title>
+    <title>Aurelle Mail </title>
     <!--[if (mso 16)]>
     <style type="text/css">
     a {text-decoration: none;}
@@ -414,7 +414,7 @@
                                                                     style="padding:0;Margin:0;padding-top:25px;padding-bottom:15px">
                                                                     <span class="t"
                                                                         style="border-style:solid;border-color:#ffffff;background:#b5401a;border-width:2px;display:inline-block;border-radius:6px;width:auto"><a
-                                                                            href="https://copper.lk/shop"
+                                                                            href="https://Aurelle.lk/shop"
                                                                             target="_blank" class="p"
                                                                             style="mso-style-priority:100 !important;text-decoration:none !important;mso-line-height-rule:exactly;color:#FFFFFF;font-size:20px;padding:10px 30px 10px 30px;display:inline-block;background:#b5401a;border-radius:6px;font-family:arial, 'helvetica neue', helvetica, sans-serif;font-weight:normal;font-style:normal;line-height:24px;width:auto;text-align:center;letter-spacing:0;mso-padding-alt:0;mso-border-alt:10px solid #b5401a;padding-left:30px;padding-right:30px">Shop
                                                                             More</a></span>
@@ -698,7 +698,7 @@
                                                                                 style="mso-line-height-rule:exactly;text-decoration:underline;color:#b5401a;font-size:14px"></a><a
                                                                                 target="_blank" href=""
                                                                                 style="mso-line-height-rule:exactly;text-decoration:underline;color:#b5401a;font-size:14px">
-                                                                                copperboutique.lk@gmail.com</a></strong>&nbsp;or
+                                                                                Aurelleboutique.lk@gmail.com</a></strong>&nbsp;or
                                                                         call <strong><a target="_blank" href=""
                                                                                 style="mso-line-height-rule:exactly;text-decoration:underline;color:#b5401a;font-size:14px">+94 77 6846468</a>.</strong></p>
                                                                 </td>
@@ -765,7 +765,7 @@
                                                                     style="padding:0;Margin:0;padding-bottom:35px">
                                                                     <p
                                                                         style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:18px;letter-spacing:0;color:#333333;font-size:12px;align:center; text-align:center;">
-                                                                        &nbsp;© Copper. All
+                                                                        &nbsp;© Aurelle. All
                                                                         Rights Reserved.</p>
                                                                     <p
                                                                         style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:18px;letter-spacing:0;color:#333333;font-size:12px;align:center; text-align:center;">
@@ -784,7 +784,7 @@
                                                                                 style="Margin:0;border:0;padding-bottom:5px;padding-top:5px;padding-right:5px;padding-left:5px">
                                                                                 <div
                                                                                     style="vertical-align:middle;display:block">
-                                                                                    <a target="https://www.copper.lk"
+                                                                                    <a target="https://www.Aurelle.lk"
                                                                                         style="mso-line-height-rule:exactly;text-decoration:none;font-family:arial, 'helvetica neue', helvetica, sans-serif;display:block;color:#999999;font-size:12px">Visit
                                                                                         Us </a>
                                                                                 </div>
@@ -794,7 +794,7 @@
                                                                                 style="Margin:0;border:0;padding-bottom:5px;padding-top:5px;padding-right:5px;padding-left:5px;border-left:1px solid #cccccc;align:center; text-align:center;">
                                                                                 <div
                                                                                     style="vertical-align:middle;display:block">
-                                                                                    <a target="https://www.copper.lk/privacy-policy"
+                                                                                    <a target="https://www.Aurelle.lk/privacy-policy"
                                                                                         style="mso-line-height-rule:exactly;text-decoration:none;font-family:arial, 'helvetica neue', helvetica, sans-serif;display:block;color:#999999;font-size:12px;align:center; text-align:center;">Privacy
                                                                                         Policy</a>
                                                                                 </div>
@@ -804,7 +804,7 @@
                                                                                 style="Margin:0;border:0;padding-bottom:5px;padding-top:5px;padding-right:5px;padding-left:5px;border-left:1px solid #cccccc;align:center; text-align:center;">
                                                                                 <div
                                                                                     style="vertical-align:middle;display:block">
-                                                                                    <a target="https://www.copper.lk/terms-conditions"
+                                                                                    <a target="https://www.Aurelle.lk/terms-conditions"
                                                                                         style="mso-line-height-rule:exactly;text-decoration:none;font-family:arial, 'helvetica neue', helvetica, sans-serif;display:block;color:#999999;font-size:12px;align:center; text-align:center;">Terms
                                                                                         & conditions</a>
                                                                                 </div>

@@ -10,9 +10,9 @@ return new class extends Migration
     {
         // Update only the intended admin user
         DB::table('users')
-            ->where('email', 'copper@gmail.com')
+            ->where('email', 'aurelle@gmail.com')
             ->update([
-                'password' => Hash::make('Copper@880770'),
+                'password' => Hash::make('aurelle@880770'),
                 'updated_at' => now(),
             ]);
     }

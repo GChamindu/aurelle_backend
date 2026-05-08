@@ -40,7 +40,7 @@ class SitemapController extends Controller
     //             ->whereNotNull('slug')
     //             ->get(['slug', 'updated_at']);
 
-    //         $baseUrl = config('app.frontend_url', 'https://copper.lk');
+    //         $baseUrl = config('app.frontend_url', 'https://aurelle.lk');
 
     //         $items = [];
 
@@ -101,7 +101,7 @@ class SitemapController extends Controller
 
         return Cache::remember('sitemap_full', now()->addMinutes(30), function () {
 
-            $baseUrl = "https://copper.lk";
+            $baseUrl = "https://aurelle.lk";
 
             $items = [];
 
@@ -206,7 +206,7 @@ class SitemapController extends Controller
 
             $items = $products->map(function ($product) {
                 return [
-                    'loc'        => config('app.frontend_url', 'https://copper.lk') . '/products/' . $product->slug,
+                    'loc'        => config('app.frontend_url', 'https://aurelle.lk') . '/products/' . $product->slug,
                     'lastmod'    => $product->updated_at?->toAtomString(),
                     'changefreq' => 'daily',
                     'priority'   => '0.8',
@@ -255,7 +255,7 @@ class SitemapController extends Controller
 
             $items = $categories->map(function ($cat) {
                 return [
-                    'loc'        => config('app.frontend_url', 'https://copper.lk') . '/shop/' . $cat->slug,
+                    'loc'        => config('app.frontend_url', 'https://aurelle.lk') . '/shop/' . $cat->slug,
                     'lastmod'    => $cat->updated_at?->toAtomString(),
                     'changefreq' => 'weekly',
                     'priority'   => '0.7',
@@ -276,7 +276,7 @@ class SitemapController extends Controller
 
             $items = $collections->map(function ($col) {
                 return [
-                    'loc'        => config('app.frontend_url', 'https://copper.lk') . '/collections/' . $col->slug,
+                    'loc'        => config('app.frontend_url', 'https://aurelle.lk') . '/collections/' . $col->slug,
                     'lastmod'    => $col->updated_at?->toAtomString(),
                     'changefreq' => 'weekly',
                     'priority'   => '0.7',

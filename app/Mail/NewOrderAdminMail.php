@@ -14,7 +14,7 @@ class NewOrderAdminMail extends Mailable
     public array $customer;
     public string $adminLink;
 
-    public function __construct(array $orderItems, array $customer, string $adminLink = 'https://admin.copper.lk')
+    public function __construct(array $orderItems, array $customer, string $adminLink = 'https://admin.aurelle.lk')
     {
         $this->orderItems = $orderItems;   // array of products
         $this->customer = $customer;       // customer info
