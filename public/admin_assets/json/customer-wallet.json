@@ -1,0 +1,74 @@
+[
+	{
+		"#": "1",
+		"Provider": "John Smith",
+		"Customer": "Ruban",
+		"Amount": "$7.5",
+		"Reason": "Deposit",
+		"Status": "Completed",
+		"Date": "07 Oct 2023"
+	},
+	{
+		"#": "2",
+		"Provider": "Amanda",
+		"Customer": "Adrian",
+		"Amount": "$0",
+		"Reason": "Withdrawn",
+		"Status": "Completed",
+		"Date": "07 Oct 2023"
+	},
+	{
+		"#": "3",
+		"Provider": "Zela",
+		"Customer": "Amanda",
+		"Amount": "$6.5",
+		"Reason": "Deposit",
+		"Status": "Completed",
+		"Date": "17 Oct 2023"
+	},
+	{
+		"#": "4",
+		"Provider": "Aaron",
+		"Customer": "James",
+		"Amount": "$0.00",
+		"Reason": "Withdrawn",
+		"Status": "Completed",
+		"Date": "17 Oct 2023"
+	},
+	{
+		"#": "5",
+		"Provider": "Mark",
+		"Customer": "John Smith",
+		"Amount": "$7.5",
+		"Reason": "Deposit",
+		"Status": "Completed",
+		"Date": "07 Oct 2023"
+	},
+	{
+		"#": "6",
+		"Provider": "Andrew",
+		"Customer": "Johnny",
+		"Amount": "$0",
+		"Reason": "Withdrawn",
+		"Status": "Completed",
+		"Date": "07 Oct 2023"
+	},
+	{
+		"#": "7",
+		"Provider": "Amanda",
+		"Customer": "Amanda",
+		"Amount": "$6.5",
+		"Reason": "Deposit",
+		"Status": "Completed",
+		"Date": "17 Oct 2023"
+	},
+	{
+		"#": "8",
+		"Provider": "James",
+		"Customer": "Mandrid",
+		"Amount": "$0.00",
+		"Reason": "Withdrawn",
+		"Status": "Completed",
+		"Date": "17 Oct 2023"
+	}
+]

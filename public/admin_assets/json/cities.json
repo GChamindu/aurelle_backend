@@ -1,0 +1,58 @@
+[
+    {
+        "ID": "1",
+        "CountryName": "American Samoa(+684)",
+        "StateName": "Swains Island",
+        "CityName": "Gandzasar",
+        "image": "us.png"
+    },
+    {
+        "ID": "2",
+        "CountryName": "Andorra (+376)",
+        "StateName": "Swains Island",
+        "CityName": "Escaldes-Engordany",
+        "image": "ad.png"
+    },
+    {
+        "ID": "3",
+        "CountryName": "Angola (+244)",
+        "StateName": "Benguela",
+        "CityName": "Chissamba",
+        "image": "ao.png"
+    },
+    {
+        "ID": "4",
+        "CountryName": "Anguilla (+1264)",
+        "StateName": "The Valley",
+        "CityName": "Illinois",
+        "image": "ai.png"
+    },
+    {
+        "ID": "5",
+        "CountryName": "Antarctica(+672)",
+        "StateName": "Victoria Land",
+        "CityName": "Melbourne",
+        "image": "qa.png"
+    },
+    {
+        "ID": "6",
+        "CountryName": "Antigua & Barbuda (+1268)",
+        "StateName": "Saint Paul",
+        "CityName": "Maplewood",
+        "image": "ag.png"
+    },
+    {
+        "ID": "7",
+        "CountryName": "Argentina (+54)",
+        "StateName": "Santa Fe",
+        "CityName": "Rosario",
+        "image": "ar.png"
+    },
+    {
+        "ID": "8",
+        "CountryName": "Australia (+61)",
+        "StateName": "Queensland",
+        "CityName": "Atherton",
+        "image": "au.png"
+    }
+]

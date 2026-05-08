@@ -1,0 +1,47 @@
+[
+    {
+        "UserID": "#2572",
+        "UserName": "John Smith",
+        "Email": "johnsmith@gmail.com",
+        "RequisitionDate": "28 Sep 2023 16:43PM",
+        "DeleteRequestDate": "28 Sep 2023 16:43PM",
+        "image": "user-01.jpg",
+        "Action": "Confirm"
+    },
+    {
+        "UserID": "#4572",
+        "UserName": "Johnny",
+        "Email": "johnny@gmail.com",
+        "RequisitionDate": "14 Sep 2023 16:43PM",
+        "DeleteRequestDate": "16 Sep 2023 16:43PM",
+        "image": "user-07.jpg",
+        "Action": "Confirm"
+    },
+    {
+        "UserID": "#5324",
+        "UserName": "Robert",
+        "Email": "robert@gmail.com",
+        "RequisitionDate": "04 Sep 2023 16:43PM",
+        "DeleteRequestDate": "06 Sep 2023 16:43PM",
+        "image": "user-09.jpg",
+        "Action": "Confirm"
+    },
+    {
+        "UserID": "#7651",
+        "UserName": "Sharonda",
+        "Email": "sharonda@gmail.com",
+        "RequisitionDate": "14 Sep 2023 16:43PM",
+        "DeleteRequestDate": "17 Sep 2023 16:43PM",
+        "image": "user-06.jpg",
+        "Action": "Confirm"
+    },
+    {
+        "UserID": "#54356",
+        "UserName": "Nicholas",
+        "Email": "nicholas@gmail.com",
+        "RequisitionDate": "23 Sep 2023 16:43PM",
+        "DeleteRequestDate": "27 Sep 2023 16:43PM",
+        "image": "user-04.jpg",
+        "Action": "Confirm"
+    }
+]

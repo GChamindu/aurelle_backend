@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "England Pound",
+        "content": "GBP",
+        "symbol": "£",
+        "rate": "Default",
+        "texts": "Action",
+        "class": "action-language"
+    },
+    {
+        "id": 2,
+        "name": "EU Euro",
+        "content": "EUR",
+        "symbol": "€",
+        "rate": "Default",
+        "texts": "Action",
+        "class": "action-language"
+    },
+    {
+        "id": 3,
+        "name": "India Rupee",
+        "content": "INR",
+        "symbol": "₹",
+        "rate": "Default",
+        "texts": "Action",
+        "class": "action-language"
+    },
+    {
+        "id": 4,
+        "name": "Turkiye Lira",
+        "content": "TRY",
+        "symbol": "₺",
+        "rate": "Default",
+        "texts": "Action",
+        "class": "action-language"
+    },
+    {
+        "id": 5,
+        "name": "US Dollar",
+        "content": "USD",
+        "symbol": "$",
+        "rate": "Default",
+        "texts": "Action",
+        "class": "action-language"
+    }
+]

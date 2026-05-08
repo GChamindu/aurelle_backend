@@ -1,0 +1,37 @@
+[
+    {
+        "ID": "1",
+        "Title": "Primary Menu",
+        "CreatedAt": "30 Sep 2023",
+        "Status": "Published",
+        "image": "us1.png"
+    },
+    {
+        "ID": "2",
+        "Title": "FooterDefault",
+        "CreatedAt": "30 Sep 2023",
+        "Status": "Published",
+        "image": "us1.png"
+    },
+    {
+        "ID": "3",
+        "Title": "Main Menu",
+        "CreatedAt": "14 Sep 2023",
+        "Status": "Published",
+        "image": "us1.png"
+    },
+    {
+        "ID": "4",
+        "Title": "AboutDefault",
+        "CreatedAt": "10 Sep 2023",
+        "Status": "Published",
+        "image": "us1.png"
+    },
+    {
+        "ID": "5",
+        "Title": "More Information",
+        "CreatedAt": "23 Sep 2023",
+        "Status": "Published",
+        "image": "us1.png"
+    }
+]

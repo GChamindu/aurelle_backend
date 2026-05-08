@@ -1,0 +1,58 @@
+[
+    {
+        "#": "1",
+        "Pages": "About Us",
+        "PagesSlug": "about-us",
+        "featured": true,
+        "checkboxChecked": true
+    },
+    {
+        "#": "2",
+        "Pages": "Home",
+        "PagesSlug": "home",
+        "featured": true,
+        "checkboxChecked": true
+    },
+    {
+        "#": "3",
+        "Pages": "FAQ",
+        "PagesSlug": "faq",
+        "featured": false,
+        "checkboxChecked": false
+    },
+    {
+        "#": "4",
+        "Pages": "Services",
+        "PagesSlug": "faq",
+        "featured": true,
+        "checkboxChecked": true
+    },
+    {
+        "#": "5",
+        "Pages": "Categories",
+        "PagesSlug": "categories",
+        "featured": true,
+        "checkboxChecked": true
+    },
+    {
+        "#": "6",
+        "Pages": "Contact Us",
+        "PagesSlug": "contact-us",
+        "featured": true,
+        "checkboxChecked": true
+    },
+    {
+        "#": "7",
+        "Pages": "Privacy Policy",
+        "PagesSlug": "privacy-policy",
+        "featured": false,
+        "checkboxChecked": false
+    },
+    {
+        "#": "8",
+        "Pages": "Terms Conditions",
+        "PagesSlug": "terms-conditions",
+        "featured": false,
+        "checkboxChecked": false
+    }
+]

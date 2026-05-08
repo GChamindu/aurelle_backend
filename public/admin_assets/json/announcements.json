@@ -1,0 +1,34 @@
+[
+	{
+		"#": "1",
+		"Subject": "Offer",
+		"Message": "Special offers for service booking",
+		"SendTo": "Provider",
+		"Date": "13 Oct 2023 12:17:00",
+		"Action": ""
+	},
+	{
+		"#": "2",
+		"Subject": "New Features",
+		"Message": "Two Factor Authendication added",
+		"SendTo": "User",
+		"Date": "12 Oct 2023 12:17:00",
+		"Action": ""
+	},
+	{
+		"#": "3",
+		"Subject": "Promotion",
+		"Message": "Sales promotion offers for Provider",
+		"SendTo": "Provider",
+		"Date": "13 Oct 2023 12:17:00",
+		"Action": ""
+	},
+	{
+		"#": "4",
+		"Subject": "Selling",
+		"Message": "Best selling service will be awarded",
+		"SendTo": "User",
+		"Date": "12 Oct 2023 12:17:00",
+		"Action": ""
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"ReferenceID": "1",
+		"EmailTitle": "Registration Confirmation",
+		"Date": "28 Sep 2023 16:43:20",
+		"Action": ""
+	},
+	{
+		"ReferenceID": "2",
+		"EmailTitle": "User Booked Confirmation",
+		"Date": "27 Sep 2023 10:43:20",
+		"Action": ""
+	},
+	{
+		"ReferenceID": "3",
+		"EmailTitle": "Provider Booked Confirmation",
+		"Date": "23 Sep 2023 10:43:20",
+		"Action": ""
+	},
+	{
+		"ReferenceID": "4",
+		"EmailTitle": "Booking Status",
+		"Date": "23 Sep 2023 10:43:20",
+		"Action": ""
+	},
+	{
+		"ReferenceID": "5",
+		"EmailTitle": "Admin Refund",
+		"Date": "28 Sep 2023 16:43:20",
+		"Action": ""
+	},
+	{
+		"ReferenceID": "6",
+		"EmailTitle": "Service Approval By Admin",
+		"Date": "27 Sep 2023 10:43:20",
+		"Action": ""
+	},
+	{
+		"ReferenceID": "7",
+		"EmailTitle": "Subscription Expires",
+		"Date": "23 Sep 2023 10:43:20",
+		"Action": ""
+	},
+	{
+		"ReferenceID": "8",
+		"EmailTitle": "Provider Booked Confirmation",
+		"Date": "23 Sep 2023 10:43:20",
+		"Action": ""
+	}
+]

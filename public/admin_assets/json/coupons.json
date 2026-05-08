@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "New Year",
+        "Code": "NEW2023",
+        "Type": "Percentage",
+        "Discount": "5%",
+        "limit": "100",
+        "Used": "1",
+        "ValidDate": "02 Sep 2023 - 10 Sep 2023 <br>Once per customer",
+        "ServicesName": "All Services",
+        "Status": "Action",
+        "Action": ""
+    },
+    {
+        "Name": "Christmas",
+        "Code": "JOLLY15",
+        "Type": "Fixed",
+        "Discount": "2%",
+        "limit": "100",
+        "Used": "1",
+        "ValidDate": "04 Sep 2023 - 12 Sep 2023 <br>Once per customer",
+        "ServicesName": "House Cleaning",
+        "Status": "Inaction",
+        "Action": ""
+    },
+    {
+        "Name": "Valentines",
+        "Code": "LOVER",
+        "Type": "Percentage",
+        "Discount": "10%",
+        "limit": "100",
+        "Used": "1",
+        "ValidDate": "23 Sep 2023 - 27 Sep 2023 <br>Once per customer",
+        "ServicesName": "All Services",
+        "Status": "Action",
+        "Action": ""
+    },
+    {
+        "Name": "Halloween",
+        "Code": "SPOOKY15",
+        "Type": "Fixed",
+        "Discount": "3%",
+        "limit": "100",
+        "Used": "1",
+        "ValidDate": "23 Sep 2023 - 27 Sep 2023 <br>Once per customer",
+        "ServicesName": "Computer Repair",
+        "Status": "Inaction",
+        "Action": ""
+    },
+    {
+        "Name": "Black Friday",
+        "Code": "GIFTGUIDE",
+        "Type": "Percentage",
+        "Discount": "3%",
+        "limit": "100",
+        "Used": "1",
+        "ValidDate": "23 Sep 2023 - 27 Sep 2023 <br>Once per customer",
+        "ServicesName": "Car Repair",
+        "Status": "Action",
+        "Action": ""
+    }
+]

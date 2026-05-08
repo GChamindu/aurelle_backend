@@ -1,0 +1,58 @@
+[
+	{
+		"ID": "1",
+		"CountryCode": "AS",
+		"CountryName": "American Samoa(+684)",
+		"StateName": "Swains Island",
+		"image": "us.png"
+	},
+	{
+		"ID": "2",
+		"CountryCode": "AD",
+		"CountryName": "Andorra (+376)",
+		"StateName": "Swains Island",
+		"image": "ad.png"
+	},
+	{
+		"ID": "3",
+		"CountryCode": "AO",
+		"CountryName": "Angola (+244)",
+		"StateName": "Benguela",
+		"image": "ao.png"
+	},
+	{
+		"ID": "4",
+		"CountryCode": "AI",
+		"CountryName": "Anguilla (+1264)",
+		"StateName": "The Valley",
+		"image": "ai.png"
+	},
+	{
+		"ID": "5",
+		"CountryCode": "AQ",
+		"CountryName": "Antarctica(+672)",
+		"StateName": "Victoria Land",
+		"image": "qa.png"
+	},
+	{
+		"ID": "6",
+		"CountryCode": "AG",
+		"CountryName": "Antigua & Barbuda (+1268)",
+		"StateName": "Saint Paul",
+		"image": "ag.png"
+	},
+	{
+		"ID": "7",
+		"CountryCode": "AR",
+		"CountryName": "Argentina (+54)",
+		"StateName": "Santa Fe",
+		"image": "ar.png"
+	},
+	{
+		"ID": "8",
+		"CountryCode": "AU",
+		"CountryName": "Australia (+61)",
+		"StateName": "Queensland",
+		"image": "au.png"
+	}
+]

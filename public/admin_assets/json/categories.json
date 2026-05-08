@@ -1,0 +1,74 @@
+[
+	{
+		"#": "1",
+		"Category": "Construction",
+		"CategorySlug": "construction",
+		"Date": "28 Sep 2023",
+		"featured": true,
+        "checkboxChecked": true,
+		"image": "service-03.jpg"
+	},
+	{
+		"#": "2",
+		"Category": "Car Wash",
+		"CategorySlug": "car-wash",
+		"Date": "17 Sep 2023",
+		"featured": false,
+        "checkboxChecked": false,
+		"image": "service-02.jpg"
+	},
+	{
+		"#": "3",
+		"Category": "Computer",
+		"CategorySlug": "computer",
+		"Date": "13 Sep 2023",
+		"featured": false,
+        "checkboxChecked": false,
+		"image": "service-04.jpg"
+	},
+	{
+		"#": "4",
+		"Category": "Electrical",
+		"CategorySlug": "electrical",
+		"Date": "07 Sep 2023",
+		"featured": true,
+        "checkboxChecked": true,
+		"image": "service-09.jpg"
+	},
+	{
+		"#": "5",
+		"Category": "Cleaning",
+		"CategorySlug": "cleaning",
+		"Date": "07 Sep 2023",
+		"featured": false,
+        "checkboxChecked": false,
+		"image": "service-08.jpg"
+	},
+	{
+		"#": "6",
+		"Category": "Interior",
+		"CategorySlug": "interior",
+		"Date": "07 Sep 2023",
+		"featured": true,
+        "checkboxChecked": true,
+		"image": "service-07.jpg"
+	},
+	{
+		"#": "7",
+		"Category": "Carpentry",
+		"CategorySlug": "carpentry",
+		"Date": "22 Aug 2023",
+		"featured": true,
+        "checkboxChecked": true,
+		"image": "service-09.jpg"
+	},
+	{
+		"#": "8",
+		"Category": "Plumbing",
+		"CategorySlug": "plumbing",
+		"Date": "15 Aug 2023",
+		"featured": false,
+        "checkboxChecked": false,
+		"image": "service-12.jpg"
+	}
+]

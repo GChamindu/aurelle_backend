@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": " English",
+        "type": "checkbox",
+        "edits": "edit",
+        "deletes": "Delete",
+        "flagimage": "us1.png",
+        "country": "American Samoa(+684)",
+        "code": "en",
+        "pin": "684",
+        "image": "lanuage.svg",
+        "icon": "lanuage1.svg"
+    },
+    {
+        "id": 2,
+        "name": "  Arabic",
+        "type": "checkbox",
+        "edits": "edit",
+        "deletes": "Delete",
+        "flagimage": "ae1.png",
+        "country": "Andorra (+376)",
+        "code": "ar",
+        "pin": "376",
+        "image": "lanuage.svg",
+        "icon": "lanuage1.svg"
+    }
+]

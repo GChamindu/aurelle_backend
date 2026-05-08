@@ -1,0 +1,37 @@
+[
+	{
+		"#": "1",
+		"Service": "Computer Repair",
+		"Category": "Computer",
+		"image":"service-03.jpg",
+        "Amount": "$80"
+	},
+	{
+		"#": "2",
+		"Service": "Car Repair Services",
+		"Category": "Automobile",
+		"image":"service-02.jpg",
+        "Amount": "$50"
+	},
+	{
+		"#": "3",
+		"Service": "Car Wash",
+		"Category": "Automobile",
+		"image":"service-04.jpg",
+        "Amount": "$14"
+	},
+	{
+		"#": "4",
+		"Service": "House Cleaning",
+		"Category": "Cleaning",
+		"image":"service-09.jpg",
+        "Amount": "$100"
+	},
+	{
+		"#": "5",
+		"Service": "Interior",
+		"Category": "Cleaning",
+		"image":"service-10.jpg",
+        "Amount": "$50"
+	}
+]

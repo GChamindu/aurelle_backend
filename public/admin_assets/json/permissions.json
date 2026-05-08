@@ -1,0 +1,102 @@
+[
+	{
+		"#": "1",
+		"Modules": "Dashboard",
+		"SubModules": "Dashboard",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	},
+	{
+		"#": "2",
+		"Modules": "Appointments",
+		"SubModules": "Appointments",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	},
+	{
+		"#": "3",
+		"Modules": "Specialization",
+		"SubModules": "Specialization",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	},
+	{
+		"#": "4",
+		"Modules": "Sub Categories",
+		"SubModules": "Sub Categories",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	},
+	{
+		"#": "5",
+		"Modules": "Clients",
+		"SubModules": "Clients",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	},
+	{
+		"#": "6",
+		"Modules": "Payment Request",
+		"SubModules": "Payment Request",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	},
+	{
+		"#": "7",
+		"Modules": "Reviews",
+		"SubModules": "Reviews",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	},
+	{
+		"#": "8",
+		"Modules": "Subscription",
+		"SubModules": "Subscription",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	},
+	{
+		"#": "9",
+		"Modules": "Settings",
+		"SubModules": "Settings",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	},
+	{
+		"#": "10",
+		"Modules": "Email Templates",
+		"SubModules": "Email Templates",
+		"Create": "",
+		"Edit": "",
+		"Delete": "",
+		"View": "",
+		"Allow all": ""
+	}
+]

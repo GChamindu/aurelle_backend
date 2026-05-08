@@ -1,0 +1,26 @@
+[
+    {
+        "#": "1",
+        "ReviewsType": "High",
+        "featured": true,
+        "checkboxChecked": true
+    },
+    {
+        "#": "2",
+        "ReviewsType": "Normal",
+        "featured": false,
+        "checkboxChecked": false
+    },
+    {
+        "#": "3",
+        "ReviewsType": "Excellent",
+        "featured": true,
+        "checkboxChecked": true
+    },
+    {
+        "#": "4",
+        "ReviewsType": "Good",
+        "featured": false,
+        "checkboxChecked": false
+    }
+]

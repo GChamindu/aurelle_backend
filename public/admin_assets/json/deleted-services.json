@@ -1,0 +1,46 @@
+[
+    {
+        "#": "1",
+        "Service": "Steam Car Wash",
+        "Category": "Car Wash",
+        "SubCategory": "Other",
+        "Price": "$14",
+        "Duration": "10:00",
+        "Status": "Delete",
+        "CreatedBy": "Provider",
+        "image": "service-04.jpg"
+    },
+    {
+        "#": "2",
+        "Service": "Car Repair Services",
+        "Category": "Automobile",
+        "SubCategory": "Other",
+        "Price": "$50",
+        "Duration": "12:00",
+        "Status": "Delete",
+        "CreatedBy": "Admin",
+        "image": "service-02.jpg"
+    },
+    {
+        "#": "3",
+        "Service": "Computer Repair",
+        "Category": "Computer",
+        "SubCategory": "Other",
+        "Price": "$80",
+        "Duration": "16:00",
+        "Status": "Delete",
+        "CreatedBy": "Provider",
+        "image": "service-03.jpg"
+    },
+    {
+        "#": "4",
+        "Service": "House Cleaning",
+        "Category": "Cleaning",
+        "SubCategory": "Other",
+        "Price": "$100",
+        "Duration": "18:00",
+        "Status": "Delete",
+        "CreatedBy": "Admin",
+        "image": "service-09.jpg"
+    }
+]
