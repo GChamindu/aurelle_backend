@@ -21,8 +21,8 @@ Route::get('/user', function (Request $request) {
 
 Route::controller(ProductController::class)->group(function () {
     Route::get('/new-arrivals', 'getNewArrivals')->name('products.new.arrivals');
-    Route::get('/trending-now', 'getTrendingNow')->name('products.new.arrivals');
-    Route::get('/best-sales', 'getBestSales')->name('products.new.arrivals');
+    Route::get('/trending-now', 'getTrendingNow')->name('products.trending.now');
+    Route::get('/best-sales', 'getBestSales')->name('products.best.sales');
     Route::get('/recently-viewed', 'getRecentviews')->name('products.recent.views');
     Route::get('/people-bought', 'getPeopleBoughts')->name('products.people.bought');
     Route::get('/shop-grams', 'getShopGrams')->name('products.shop.grams');
@@ -40,7 +40,7 @@ Route::controller(ProductController::class)->group(function () {
     // wishlist
 
     Route::get('/wishlist', 'getWishlistProducts')->name('get.wishlist');
-    Route::get('/new-fashion', 'getNewFashion')->name('products.new.arrivals');
+    Route::get('/new-fashion', 'getNewFashion')->name('products.new.fashion');
 
     Route::get('/collection/{slug}', 'getCollectionProducts')->name('get.collection.products');
     Route::get('/section/{slug}', 'getSectionProducts')->name('get.section.products');
